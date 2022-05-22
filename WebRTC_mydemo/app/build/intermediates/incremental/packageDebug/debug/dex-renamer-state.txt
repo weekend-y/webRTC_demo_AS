@@ -1,0 +1,4 @@
+#Sun May 22 16:44:08 CST 2022
+base.0=D\:\\study\\webRTC_android\\mygithub\\webRTC_demo_AS\\WebRTC_mydemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Sun May 22 16:44:08 CST 2022
+1.base=D\:\\study\\webRTC_android\\mygithub\\webRTC_demo_AS\\WebRTC_mydemo\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.path=lib/arm64-v8a/libjingle_peerconnection_so.so
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=D\:\\study\\webRTC_android\\mygithub\\webRTC_demo_AS\\WebRTC_mydemo\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.set=DEX
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=NATIVE_RESOURCE
+0.path=lib/x86/libjingle_peerconnection_so.so
+3.base=D\:\\study\\webRTC_android\\mygithub\\webRTC_demo_AS\\WebRTC_mydemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.set=NATIVE_RESOURCE
+0.base=D\:\\study\\webRTC_android\\mygithub\\webRTC_demo_AS\\WebRTC_mydemo\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.baseType=DIRECTORY
+1.path=lib/armeabi-v7a/libjingle_peerconnection_so.so

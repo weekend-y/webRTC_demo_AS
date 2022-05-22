@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebRTC_mydemo.iml" filepath="$PROJECT_DIR$/.idea/modules/WebRTC_mydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WebRTC_mydemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WebRTC_mydemo.app.iml" />
+    </modules>
+  </component>
+</project>
